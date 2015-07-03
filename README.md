@@ -1,4 +1,5 @@
 # MojioiOSSDK
+<<<<<<< HEAD
 
 [![CI Status](http://img.shields.io/travis/Ye Ma/MojioiOSSDK.svg?style=flat)](https://travis-ci.org/Ye Ma/MojioiOSSDK)
 [![Version](https://img.shields.io/cocoapods/v/MojioiOSSDK.svg?style=flat)](http://cocoapods.org/pods/MojioiOSSDK)
@@ -27,3 +28,6 @@ Ye Ma, stevema@moj.io
 ## License
 
 MojioiOSSDK is available under the MIT license. See the LICENSE file for more info.
+=======
+iOS SDK provide interface to Mojio RESTFUL service
+>>>>>>> 4b33c5b37858ba824ca6968709b5c75a4568fff9
