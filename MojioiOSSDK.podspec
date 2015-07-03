@@ -17,11 +17,11 @@ Pod::Spec.new do |s|
                        * Markdown format.
                        * Don't worry about the indent, we strip it!
                        DESC
-  s.homepage         = "https://github.com/mojio/mojio-ios-sdk"
+  s.homepage         = "https://github.com/topyema/MojioiOSSDK"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
-  s.author           = { "Ashish Agarwal" => "ashisha@moj.io" }
-  s.source           = { :git => "https://github.com/mojio/mojio-ios-sdk.git", :tag => s.version.to_s }
+  s.author           = { "Steve Ma" => "stevema@moj.io" }
+  s.source           = { :git => "https://github.com/topyema/MojioiOSSDK.git", :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.platform     = :ios, '7.0'
