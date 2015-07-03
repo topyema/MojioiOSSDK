@@ -9,19 +9,19 @@
 
 Pod::Spec.new do |s|
   s.name             = "MojioiOSSDK"
-  s.version          = "0.1.0"
-  s.summary          = "A short description of MojioiOSSDK."
+  s.version          = "0.0.1"
+  s.summary          = "iOS SDK provide interface to Mojio Service"
   s.description      = <<-DESC
-                       An optional longer description of MojioiOSSDK
+                       Provide API interface to talk to Mojio Service, must be integrated for third party Mojio Apps.
 
                        * Markdown format.
                        * Don't worry about the indent, we strip it!
                        DESC
-  s.homepage         = "https://github.com/<GITHUB_USERNAME>/MojioiOSSDK"
+  s.homepage         = "https://github.com/mojio/mojio-ios-sdk"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
-  s.author           = { "Ye Ma" => "stevema@moj.io" }
-  s.source           = { :git => "https://github.com/<GITHUB_USERNAME>/MojioiOSSDK.git", :tag => s.version.to_s }
+  s.author           = { "Ashish Agarwal" => "ashisha@moj.io" }
+  s.source           = { :git => "https://github.com/mojio/mojio-ios-sdk.git", :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.platform     = :ios, '7.0'
@@ -35,4 +35,5 @@ Pod::Spec.new do |s|
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
+  # s.dependency 'JSONModel', '1.0.2'
 end

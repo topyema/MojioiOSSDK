@@ -1,0 +1,14 @@
+PODS:
+  - MojioiOSSDK (0.1.0)
+
+DEPENDENCIES:
+  - MojioiOSSDK (from `../`)
+
+EXTERNAL SOURCES:
+  MojioiOSSDK:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MojioiOSSDK: de44b97e00c0a92e23660ec0dc8b63b7c9563644
+
+COCOAPODS: 0.37.2

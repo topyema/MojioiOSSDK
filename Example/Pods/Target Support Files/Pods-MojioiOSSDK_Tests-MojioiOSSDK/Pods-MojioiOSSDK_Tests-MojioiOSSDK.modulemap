@@ -1,0 +1,6 @@
+framework module MojioiOSSDK {
+  umbrella header "Pods-MojioiOSSDK_Tests-MojioiOSSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
